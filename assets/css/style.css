@@ -78,6 +78,7 @@ section {
     border-bottom: 3px solid;
   }
   
+  /* UTILITY STYLES START */
   .primary-border {
     border-color: #fce138;
   }
@@ -93,6 +94,8 @@ section {
   .text-right {
     text-align: right;
   }
+
+/* UTILITY STYLES END */
 
 /* HERO STYLES START */
 .hero {
@@ -234,5 +237,5 @@ section {
     font-size: 17px;
     line-height: 1.3;
   }
-  
+
 /* MEET THE TRAINERS SECTION END */
