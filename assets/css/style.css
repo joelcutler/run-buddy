@@ -69,6 +69,8 @@ section {
     padding: 60px;
 }
 
+ /* UTILITY STYLES START */
+
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -78,7 +80,6 @@ section {
     border-bottom: 3px solid;
   }
   
-  /* UTILITY STYLES START */
   .primary-border {
     border-color: #fce138;
   }
@@ -239,3 +240,31 @@ section {
   }
 
 /* MEET THE TRAINERS SECTION END */
+
+/* REACH OUT SECTION START */
+
+.contact {
+  background-color: #024e76;
+  text-align: center;
+
+}
+
+.contact h2 {
+  color: #fce138;
+}
+
+.contact-info iframe {
+  height: 400px;
+  width: 400px;
+}
+
+.contact-info div {
+  width: 410px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  margin: 30px 0 0 60px;
+  color: white;
+}
+
+/* REACH OUT SECTION END */
